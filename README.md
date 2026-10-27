@@ -26,9 +26,12 @@ This repository contains practical programs based on the OOP lab practicals.
 16. `Practical-16.cpp` — Binary operator overloading using a member function
    - `Practical-16-Friend-Function.cpp` — Binary operator overloading using a friend function
 17. `Practical-17.cpp` — Virtual function and pure virtual function
+18. Practical 18:
+   - `Practical-18-Question-1.cpp` — Copy contents from one file to another using file functions
+   - `Practical-18-Question-2.cpp` — Find the sum of array elements using a function template
 
 ## Compile and run
 
 Compile one file at a time with `g++ Practical-01.cpp -o practical` and run it with `./practical`. Replace the filename with the practical you want to run. Each `.cpp` file is a separate program and should be compiled separately.
 
-The programs follow the supplied practical material where applicable.
+For Question 1 of Practical 18, create a `source.txt` file with some text before running the program; the program writes the copied text to `destination.txt`.
