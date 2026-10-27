@@ -31,6 +31,7 @@ This repository contains practical programs based on the OOP lab practicals.
    - `Practical-18-Question-2.cpp` — Find the sum of array elements using a function template
 19. Practical 19:
    - `Practical-19-Question-1.cpp` — Demonstrate a class template
+20. `Practical-20.cpp` — Vector class: create, modify, multiply elements by a scalar, and display
 
 ## Compile and run
 
