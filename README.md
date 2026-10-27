@@ -1,6 +1,6 @@
 Object-Oriented Programming Lab Practicals (C++)
 
-This repository contains practical programs based on the uploaded OOP Lab Practicals 1–16 document.
+This repository contains practical programs based on the OOP lab practicals.
 
 ## Practical files
 
@@ -25,9 +25,10 @@ This repository contains practical programs based on the uploaded OOP Lab Practi
    - `Practical-15-Friend-Function.cpp` — Unary operator overloading using a friend function
 16. `Practical-16.cpp` — Binary operator overloading using a member function
    - `Practical-16-Friend-Function.cpp` — Binary operator overloading using a friend function
+17. `Practical-17.cpp` — Virtual function and pure virtual function
 
 ## Compile and run
 
 Compile one file at a time with `g++ Practical-01.cpp -o practical` and run it with `./practical`. Replace the filename with the practical you want to run. Each `.cpp` file is a separate program and should be compiled separately.
 
-The programs follow the supplied document. The inheritance experiment is represented by the single-inheritance example shown in that document; no additional inheritance examples have been invented.
+The programs follow the supplied practical material where applicable.
