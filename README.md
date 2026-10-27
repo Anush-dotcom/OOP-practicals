@@ -29,6 +29,8 @@ This repository contains practical programs based on the OOP lab practicals.
 18. Practical 18:
    - `Practical-18-Question-1.cpp` — Copy contents from one file to another using file functions
    - `Practical-18-Question-2.cpp` — Find the sum of array elements using a function template
+19. Practical 19:
+   - `Practical-19-Question-1.cpp` — Demonstrate a class template
 
 ## Compile and run
 
